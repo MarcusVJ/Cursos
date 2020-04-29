@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  align-items: center;
+  border-style: solid;
+  visibility: visible;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+input {
+  text-align: center;
+}
+
+small {
+  font-weight: bold;
+}
