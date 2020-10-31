@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook MacBook Poo",
+      "price": 12000.5
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ megaboga",
+      "price": "5000.99"
+    },
+    {
+      "name": "Geladeira ",
+      "price": "1999",
+      "id": 6
+    }
+  ]
+}
